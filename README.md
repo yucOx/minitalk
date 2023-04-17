@@ -1,6 +1,5 @@
 
-[![mehaydin's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/project/2911066)](https://github.com/JaeSeoKim/badge42)
-# minitalk
+# minitalk [![mehaydin's 42 minitalk Score](https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/project/2911066)](https://github.com/JaeSeoKim/badge42)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
